@@ -4,7 +4,7 @@ Meu nome é Everton França, sou formado em administração e fiz migração da 
 
 
 
-![Everton França GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonfranca5&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonfranca5&show_icons=true&theme=radical)](https://github.com/evertonfranca5/github-readme-stats) ![Everton França GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonfranca5&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonfranca5&show_icons=true&theme=radical)](https://github.com/evertonfranca5/github-readme-stats)
+
 
