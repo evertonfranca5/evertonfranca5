@@ -6,7 +6,7 @@ Meu nome é Everton França, sou formado em administração e fiz migração da 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonfranca5&show_icons=true&theme=dark)](https://github.com/evertonfranca5/github-readme-stats) ![Everton França GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonfranca5&show_icons=true&theme=dark) 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>	
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/>	
 
 
   
