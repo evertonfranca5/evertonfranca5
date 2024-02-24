@@ -1,6 +1,6 @@
 <i><h1>Olá, seja bem vindo !</h1>
 
-<h3>Meu nome é Everton França, sou formado em administração e fiz migração da área sistêmica de PCP para a área de desenvolvimento web, possuo vivência técnica adquirida através da plataforma DevClub e cursando linguagens como: HTML, CSS, Javascript, React, TypeScript e desenvolvendo projetos práticos conforme apresentados no meu repositório estou adquirindo habilidades em compreender e satisfazer as necessidades dos usuários e clientes através de soluções eficazes.</h3><i/>
+<h3>Meu nome é Everton França, sou formado em administração e fiz migração da área sistêmica de PCP para a área de Desenvolvimento Web, possuo vivência técnica adquirida através da plataforma DevClub e cursando linguagens como: HTML, CSS, Javascript, React, TypeScript e desenvolvendo projetos práticos conforme apresentados no meu repositório estou adquirindo habilidades em compreender e satisfazer as necessidades dos usuários e clientes através de soluções eficazes.</h3><i/>
 
 
 
