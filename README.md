@@ -1,6 +1,6 @@
 <i><h1>Olá, seja bem vindo !</h1>
 
-<h3>Meu nome é Everton França, sou formado em administração e estou em  processo de transição para área de Desenvolvimento Web, possuo vivência técnica adquirida através da plataforma DevClub e cursando linguagens como: HTML, CSS, Javascript, React, TypeScript, estou desenvolvendo projetos práticos conforme apresentados no meu repositório, adquirindo habilidades em compreender e satisfazer as necessidades dos usuários e clientes através de soluções eficazes.</h3><i/>
+<h5>Meu nome é Everton França, Profissional formado em Administração e entusiasmado por tecnologia estou em transição de carreira para área de Desenvolvimento Web, minha vivência técnica está sendo adquirida através da plataforma DevClub, cursando linguagens como: HTML, CSS, Javascript, React, TypeScript e versionamento com Git Flow e Deploy, estou desenvolvendo projetos práticos para aplicar o que aprendi e que estão disponíveis abaixo, buscando sempre me aperfeiçoar e desenvolver habilidades para compreender e satisfazer as necessidades dos usuários e clientes através de soluções tecnológicas, inovadoras e eficazes.</h5><i/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonfranca5&show_icons=true&theme=dark)](https://github.com/evertonfranca5/github-readme-stats) ![Everton França GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonfranca5&show_icons=true&theme=dark) 
 
